@@ -585,3 +585,6 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+# PS5
+DOMAIN-SUFFIX,stun.playstation.net
+DOMAIN-SUFFIX,us.np.stun.playstation.net
